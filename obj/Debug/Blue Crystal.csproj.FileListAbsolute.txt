@@ -1,0 +1,80 @@
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Blue Crystal.dll.config
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Blue Crystal.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Blue Crystal.pdb
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\roslyn\csc.exe
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\roslyn\csc.exe.config
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\roslyn\csc.rsp
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\roslyn\csi.exe
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\roslyn\csi.rsp
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\roslyn\System.AppContext.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\roslyn\vbc.exe
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\roslyn\vbc.exe.config
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\roslyn\vbc.rsp
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\roslyn\VBCSCompiler.exe
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Antlr3.Runtime.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\EntityFramework.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\EntityFramework.SqlServer.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.Owin.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.Owin.Security.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Newtonsoft.Json.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Owin.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\System.Web.Optimization.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\WebGrease.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\System.Web.Optimization.xml
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Newtonsoft.Json.xml
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Antlr3.Runtime.pdb
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\EntityFramework.xml
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\EntityFramework.SqlServer.xml
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.Owin.xml
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.Owin.Security.xml
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\obj\Debug\Blue Crystal.csprojAssemblyReference.cache
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\obj\Debug\Blue Crystal.csproj.CoreCompileInputs.cache
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\obj\Debug\Blue Crystal.csproj.CopyComplete
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\obj\Debug\Blue Crystal.dll
+C:\Users\JinFieryblaze\source\repos\Blue Crystal\obj\Debug\Blue Crystal.pdb
